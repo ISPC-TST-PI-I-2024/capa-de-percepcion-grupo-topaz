@@ -1,7 +1,24 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/6DmeHhP6)
+![alt text](./Recursos/Visuales/image1.png)
+**Profesor:** C.GONZALO VERA
 
-Repositorio correspondiente al avance del proyecto final, y referido a la Unidad 1 de Proyecto Integrador 1
-# integrantes:
+**Integrantes:**
+
+Colmenares, Mayrene.
+
+Gómez, Ulises.
+
+Fernández, Facundo.
+
+Roldán, Leandro.
+
+Quintana, Merwil.
+
+Villablaca, Elizabeth.
+
+
+
+## Repositorio correspondiente al avance del proyecto final, y referido a la Unidad 1 de Proyecto Integrador 1
 
 
 
