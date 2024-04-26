@@ -1,4 +1,4 @@
-![banner](.rcs/.img/image1.png.img)
+![banner](.rcs/.img/image1.png)
 # Proyecto Integrador
 
 ## Repositorio correspondiente a los recursos investigados y al material pertinente.
@@ -15,5 +15,5 @@
 
 
 ###  Material Complementario:  
- 
+
 [TUso de sensores en proyectos IoT reales](<uh#2tk#6 - Uso de sensores en proyectos IoT reales.pdf>)
