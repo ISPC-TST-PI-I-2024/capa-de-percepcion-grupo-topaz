@@ -5,5 +5,5 @@ En esta carpeta está destinada a la colecta de informacion relevante para el an
 - Estadística actual de incendios forestales en la provincia de córdoba
 - detalles del proyecto  
 
-- Informacion relevante de sensores, actuadores y microprosesadores.
+
 

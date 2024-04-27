@@ -43,13 +43,23 @@ Introducción al IoT, formación de equipos. Primer contacto con herramientas de
 • Prototipar y implementar el controlador de la capa física.
 
 
-### A realizar   
+### Avances:   
 
-1. 10.Seleccionar un proyecto de los 24 propuestos o proponer uno nuevo para
+1. Seleccionar un proyecto de los 24 propuestos o proponer uno nuevo para
 aprobación del profesor.  
-        - Se eligió realizar el proyecto del Sistema de Monitoreo Ambiental orientado a bosques de las sierras
+        - Se eligió realizar el proyecto del Sistema de Monitoreo Ambiental orientado a bosques de las sierras.
+
+                Proyecto ATIF (Alerta temprana de incendios forestales)
+ 2. Preparar una presentación breve de la visión del proyecto para compartir
+con el profesor y compañeros.   
+
+           - Se genera un archivo pdf en la carpeta B. Presentacion.
 
 
- 2. 12.Preparar una presentación breve de la visión del proyecto para compartir
-con el profesor y compañeros. 
-        - Se genera un archivo pdf en la carpeta B. Presentacion
+3. Se seleccionan Los siguientes sensores:  
+                - Sensor de humedad y temperatura  DHT22  
+                - Sensor de Luz ambiental          BH1750  
+                - Camara digital integrada         OV2640  
+
+Posibles actuadores:  
+        - Pulsador, switch, servomotor. 
